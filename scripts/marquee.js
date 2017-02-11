@@ -1,3 +1,4 @@
+//From http://stackoverflow.com/questions/10547797/very-simple-very-smooth-javascript-marquee
 (function($) {
         $.fn.textWidth = function(){
              var calc = '<span style="display:none">' + $(this).text() + '</span>';
