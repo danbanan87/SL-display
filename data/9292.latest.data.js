@@ -1,2 +1,2 @@
 var slData = 
-{"StatusCode":0,"Message":null,"ExecutionTime":94,"ResponseData":{"LatestUpdate":"2017-02-27T03:44:24","DataAge":37,"Metros":[],"Buses":[{"GroupOfLine":null,"TransportMode":"BUS","LineNumber":"191","Destination":"Stockholm C","JourneyDirection":2,"StopAreaName":"Örnsberg","StopAreaNumber":13063,"StopPointNumber":70694,"StopPointDesignation":null,"TimeTabledDateTime":"2017-02-27T03:46:01","ExpectedDateTime":"2017-02-27T03:47:43","DisplayTime":"2 min","JourneyNumber":9235,"Deviations":null}],"Trains":[],"Trams":[],"Ships":[],"StopPointDeviations":[]}}
+{"StatusCode":0,"Message":null,"ExecutionTime":140,"ResponseData":{"LatestUpdate":"2017-02-27T03:49:58","DataAge":3,"Metros":[],"Buses":[],"Trains":[],"Trams":[],"Ships":[],"StopPointDeviations":[]}}
