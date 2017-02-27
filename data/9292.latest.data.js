@@ -1,2 +1,2 @@
 var slData = 
-{"StatusCode":0,"Message":null,"ExecutionTime":123,"ResponseData":{"LatestUpdate":"2017-02-27T03:54:29","DataAge":32,"Metros":[],"Buses":[],"Trains":[],"Trams":[],"Ships":[],"StopPointDeviations":[]}}
+{"StatusCode":0,"Message":null,"ExecutionTime":183,"ResponseData":{"LatestUpdate":"2017-02-27T04:00:06","DataAge":2,"Metros":[],"Buses":[{"GroupOfLine":null,"TransportMode":"BUS","LineNumber":"191","Destination":"Norsborg","JourneyDirection":1,"StopAreaName":"Örnsberg","StopAreaNumber":13063,"StopPointNumber":70695,"StopPointDesignation":null,"TimeTabledDateTime":"2017-02-27T04:25:38","ExpectedDateTime":"2017-02-27T04:25:38","DisplayTime":"25 min","JourneyNumber":7632,"Deviations":null}],"Trains":[],"Trams":[],"Ships":[],"StopPointDeviations":[]}}
