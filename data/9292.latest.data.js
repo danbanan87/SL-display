@@ -1,2 +1,2 @@
 var slData = 
-{"StatusCode":0,"Message":null,"ExecutionTime":140,"ResponseData":{"LatestUpdate":"2017-02-27T03:49:58","DataAge":3,"Metros":[],"Buses":[],"Trains":[],"Trams":[],"Ships":[],"StopPointDeviations":[]}}
+{"StatusCode":0,"Message":null,"ExecutionTime":123,"ResponseData":{"LatestUpdate":"2017-02-27T03:54:29","DataAge":32,"Metros":[],"Buses":[],"Trains":[],"Trams":[],"Ships":[],"StopPointDeviations":[]}}
